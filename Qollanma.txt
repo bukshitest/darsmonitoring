@@ -1,0 +1,29 @@
+BUXDU — DARSLAR MONITORINGI
+
+1. ZIP arxivni oching.
+2. index.html va darsmonitoring.xlsx fayllarini bir xil sayt papkasiga joylang.
+3. Brauzerda saytning index.html sahifasini oching (http:// yoki https://).
+   HTML faylni kompyuterda ikki marta bosib ochish avtomatik Excel o‘qish uchun ishlamaydi.
+4. Keyingi eksportni darsmonitoring.xlsx nomi bilan eski Excel o‘rniga joylang.
+5. Panelda Ma’lumotni yangilash tugmasini bosing.
+
+Excel fayli avtomatik o‘qiladi; fayl tanlash va yuklash tugmasi talab qilinmaydi.
+Fayl yo‘q yoki xato bo‘lsa, eski statistika joriy ma’lumot sifatida ko‘rsatilmaydi.
+
+FILTIRLAR VA EKSPORT
+Sana oralig‘i, fakultet, kafedra, o‘qituvchi, guruh, dars turi, juftlik va qidiruv.
+Oxirgi sana / Oxirgi 7 kun — Excel ichidagi eng so‘nggi sanaga nisbatan.
+Excel eksport faqat amaldagi filtrlar bo‘yicha tuziladi.
+To‘liq hisobot: Umumiy, Darslar, Guruh qaydlari, O‘qituvchilar, Kafedralar, Fakultetlar.
+Umumiy varaqda filtrlar, ma’lumot yangilangan vaqti va hisoblash qoidalari bor.
+PDF / Chop etish tanlangan darslarning hammasini chiqaradi, 25 qator bilan cheklanmaydi.
+
+MANBA FORMATI
+Kafedra / Bo‘lim, Xodim, Fakultet, Guruh, Fanlar, Fan turi, Juftlik, Sana.
+Faylda faqat davomati olinmagan darslar bo‘lishi kerak.
+Ma’ruzalar bir xil sana, juftlik, o‘qituvchi va fan bo‘yicha birlashtiriladi.
+Boshqa darslar guruh bo‘yicha alohida hisoblanadi. Aniq takrorlar chiqariladi.
+Davomati olinmagan dars — dars o‘tilmagan degani emas.
+Umumiy darslar soni yo‘q, shu sabab bajarilish foizi chiqarilmaydi.
+F.I.Sh. bir xil bo‘lgan turli shaxslarni ajratish uchun manbada ID kerak.
+Brauzer: zamonaviy Chrome yoki Edge. Internet kutubxonalari talab qilinmaydi.
